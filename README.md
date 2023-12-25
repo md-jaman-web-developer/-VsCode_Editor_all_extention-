@@ -123,7 +123,14 @@ Path inteligente
   <img src="https://github.com/md-jaman-web-developer/-VsCode_Editor_all_extention-/blob/main/%7C%7CAll%20Photos%20%7C%7C/Screenshot%20from%202023-12-22%2014-53-40.png" alt="VsCode Editor" width="150" height="150" style="border-radius: 50%;">
 </p>
 
+
 ```
 npm install -D prettier prettier-plugin-tailwindcss
 ```
+<p align="center">
+  <img src="https://github.com/md-jaman-web-developer/-VsCode_Editor_all_extention-/blob/main/%7C%7CAll%20Photos%20%7C%7C/Screenshot%20from%202023-12-26%2005-05-21.png" alt="VsCode Editor" width="150" height="150" style="border-radius: 50%;">
+</p>
 
+```
+px to rem
+```
